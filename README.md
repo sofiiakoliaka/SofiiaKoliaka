@@ -1,7 +1,12 @@
-## Hi there 👋
+## Welcome to my GitHub 👋
 
-<!--
-**sofiiakoliaka/sofiiakoliaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Sonya Koliaka and I am a senior majoring in Computer Science with a concentration in Software, Systems and Networks with a minor in German at the University of North Carolina at Charlotte.
+
+# About me 
+
+-**Professions:** Computer Science Student with a concentration in Software, Systems and Networks
+-**Interests:** Software Development, Website Development
+-**Languages:** Java, JavaScript, Python, HTML, C++, SQL
 
 Here are some ideas to get you started:
 
