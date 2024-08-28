@@ -10,9 +10,21 @@ Hello! My name is Sonya Koliaka, and I am a senior majoring in Computer Science 
 - **Languages:** Java, JavaScript, Python, HTML, C++, SQL
 
 
-### 💼 Project: Mobile Banking Application
+### 💼 Project: Online Banking Application
 
-I developed a mobile banking application designed to provide a secure and user-friendly experience for managing personal finances. The app includes features such as account balance tracking, transaction history, fund transfers, and customizable notifications. I focused on implementing robust security measures, including multi-factor authentication and encryption, while ensuring a smooth and intuitive UI/UX.
+Online Banking Application is a Java application that allows users to manage their bank accounts. It involves creating a basic application to manage the essential functions of a bank. It allows users to perform various banking operations, including managing accounts, account transfers, and transactions. 
+The project performs a variety of functions such as:
+- Display all account details
+- Search by account number
+- Deposit the amount
+- Withdraw the amount
+- Login into accounts 
+- Update personal details 
+- Change password
+- View balance
+- Transfer money
+- Display a summary of recent transactions for customers
+Language: Java
 
 
 ### 🎯 Goals and Objectives
