@@ -2,7 +2,7 @@
 
 Hello! My name is Sonya Koliaka, and I am a senior majoring in Computer Science with a concentration in Software, Systems and Networks with a minor in German at the University of North Carolina at Charlotte.
 
-## About me 😄
+### About me 😄
 
 - **Professions:** Computer science student with a concentration in software, systems and networks
 - **Specializations:** Software development, systems architecture, network security
