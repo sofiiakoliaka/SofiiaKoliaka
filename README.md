@@ -24,7 +24,9 @@ The project performs a variety of functions such as:
 - View balance
 - Transfer money
 - Display a summary of recent transactions for customers
+
 Language: Java
+Link: https://github.com/sofiiakoliaka/OnlineBankingApplication.git
 
 
 ### 🎯 Goals and Objectives
