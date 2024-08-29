@@ -9,7 +9,7 @@ Hello! I am Sonya Koliaka, a senior majoring in Computer Science with a concentr
 - **Interests:** Software development, website development, cybersecurity, UI/UX design
 - **Languages:** Java, JavaScript, Python, HTML, C++, SQL
 
-I have a strong passion for software and website development, with expertise in Python, Java, C++, and JavaScript. I'm driven by a desire to solve complex problems, enhance cybersecurity, and create user-friendly digital experiences. 
+I have a strong passion for software and website development, with expertise in Python, Java, C++, JavaScript, HTML, and SQL. I'm driven by a desire to solve complex problems, enhance cybersecurity, and create user-friendly digital experiences. 
 
 
 ### 💼 Project: Online Banking Application
