@@ -1,13 +1,15 @@
 ## Welcome to my GitHub 👋
 
-Hello! My name is Sonya Koliaka, and I am a senior majoring in Computer Science with a concentration in Software, Systems and Networks with a minor in German at the University of North Carolina at Charlotte.
+Hello! I am Sonya Koliaka, a senior majoring in Computer Science with a concentration in Software, Systems and Networks with a minor in German at the University of North Carolina at Charlotte.
 
-### About me 😄
+### 😄 About me 
 
 - **Professions:** Computer science student with a concentration in software, systems and networks
 - **Specializations:** Software development, systems architecture, network security
 - **Interests:** Software development, website development, cybersecurity, UI/UX design
 - **Languages:** Java, JavaScript, Python, HTML, C++, SQL
+
+I have a strong passion for software and website development, with expertise in Python, Java, C++, and JavaScript. I'm driven by a desire to solve complex problems, enhance cybersecurity, and create user-friendly digital experiences. My ultimate goal is to launch a tech startup that combines cutting-edge technology with innovative design.
 
 
 ### 💼 Project: Online Banking Application
